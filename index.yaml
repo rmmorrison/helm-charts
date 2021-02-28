@@ -2,6 +2,23 @@ apiVersion: v1
 entries:
   chatterbox:
   - apiVersion: v2
+    appVersion: 1.0.0-pre3
+    created: "2021-02-28T01:03:21.097973288Z"
+    description: chatterbox is a Discord bot intending to provide fun (and possibly
+      sometimes useful) commands to a private Discord server in which it operates.
+    digest: ba01ffba3b0d1ced8c3ddc3e485b92cc1a89d841352c1256cec01664cc9b9e57
+    home: https://github.com/rmmorrison/chatterbox
+    maintainers:
+    - name: Ryan Morrison
+      url: https://ryanmorrison.net
+    name: chatterbox
+    sources:
+    - https://github.com/rmmorrison/chatterbox
+    type: application
+    urls:
+    - https://github.com/rmmorrison/helm-charts/releases/download/chatterbox-0.1.2/chatterbox-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
     appVersion: 1.0.0-pre2
     created: "2021-02-23T02:11:41.684835535Z"
     description: chatterbox is a Discord bot intending to provide fun (and possibly
@@ -18,4 +35,4 @@ entries:
     urls:
     - https://github.com/rmmorrison/helm-charts/releases/download/chatterbox-0.1.1/chatterbox-0.1.1.tgz
     version: 0.1.1
-generated: "2021-02-23T02:11:41.684839935Z"
+generated: "2021-02-28T01:03:21.097980288Z"
