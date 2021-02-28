@@ -1,6 +1,6 @@
 apiVersion: v2
 name: chatterbox
-version: 0.1.1
+version: 0.1.2
 description: chatterbox is a Discord bot intending to provide fun (and possibly sometimes useful) commands to a private Discord server in which it operates.
 maintainers:
   - name: Ryan Morrison
